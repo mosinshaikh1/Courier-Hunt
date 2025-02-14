@@ -2,7 +2,7 @@ var a=document.querySelector("#studentloginbox")
 function studentlogin(){
 
 a.addEventListener("click",function(){
-    window.location.href = "/student/studenthome.html";
+    window.location.href = "student/studenthome.html";
 })}
 studentlogin();
 
